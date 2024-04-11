@@ -9,5 +9,4 @@ public class VaultApplication {
     public static void main(String[] args) {
         SpringApplication.run(VaultApplication.class, args);
     }
-
 }
